@@ -2,8 +2,8 @@
 
 ## 💕 Referências 
 
-* <link href="https://www.youtube.com/c/CursoemV%C3%ADdeo" tittle="Curso em Vídeo">
-* <link href="https://www.w3schools.com/java/" tittle="W3Schools">
+*[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo). |  ![Imagem](readme-media/1.gif)
+*[W3SCHOOLS](https://www.w3schools.com/java/).                  |
 
 ## ⏳ História do  Java
 
