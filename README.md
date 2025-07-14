@@ -1,9 +1,21 @@
 # 📝  Java - Anotações e Exercícios
 
-## 💕 Referências 
+<table>
+  <tr>
+    <td>
 
-*[Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo). |  ![Imagem](readme-media/1.gif)
-*[W3SCHOOLS](https://www.w3schools.com/java/).                  |
+💖 **Referências**
+
+- [Curso em Vídeo](https://www.cursoemvideo.com)
+- [W3SCHOOLS](https://www.w3schools.com)
+- [DOC](https://docs.oracle.com/javase/tutorial/)
+
+    </td>
+    <td>
+      <img src="readme-media/2.gif" width="150">
+    </td>
+  </tr>
+</table> |
 
 ## ⏳ História do  Java
 
