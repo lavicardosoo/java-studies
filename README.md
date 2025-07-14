@@ -1,6 +1,11 @@
-# Java
+# 📝  Java - Anotações e Exercícios
 
-## História do  Java
+## 💕 Referências 
+
+* <link href="https://www.youtube.com/c/CursoemV%C3%ADdeo" tittle="Curso em Vídeo">
+* <link href="https://www.w3schools.com/java/" tittle="W3Schools">
+
+## ⏳ História do  Java
 
 Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Gosling, tinha o intuito de criar uma tecnologia que fizesse dispositivos diferentes se comunicar entre si.
 
