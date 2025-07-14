@@ -41,7 +41,7 @@ Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Goslin
  
  O robô de um dos projetos da Nasa, se comunicava do espaço para terra atráves da linguagem Java. 
 
-> ## 🧠 Como o Java Funciona por Trás dos Panos
+## 🧠 Como o Java Funciona por Trás dos Panos
 >
 > ### ☕ **JDK (Java Development Kit)**
 > É o pacote completo para desenvolver com Java. Ele inclui:
