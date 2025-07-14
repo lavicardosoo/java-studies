@@ -40,3 +40,42 @@ Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Goslin
  
  
  O robô de um dos projetos da Nasa, se comunicava do espaço para terra atráves da linguagem Java. 
+
+> ## 🧠 Como o Java Funciona por Trás dos Panos
+>
+> ### ☕ **JDK (Java Development Kit)**
+> É o pacote completo para desenvolver com Java. Ele inclui:
+> - **JRE** (Java Runtime Environment)
+> - **`javac`** (compilador)
+> - Ferramentas como `java`, `javadoc`, `jar`, etc.
+>
+> > 💡 Se você vai programar em Java, o JDK é o que você instala!
+>
+> ---
+>
+> ### 🛠️ **`javac` — O Compilador**
+> Transforma o seu `.java` em `.class` (bytecode).
+>
+> Exemplo:
+> ```bash
+> javac HelloWorld.java
+> ```
+> Isso gera: `HelloWorld.class` 💾
+>
+> ---
+>
+> ### 🔥 **JVM (Java Virtual Machine)**
+> A JVM é quem roda o bytecode. Ela traduz esse `.class` para instruções do sistema (Linux, Windows, etc).
+>
+> > 📦 Escreve uma vez, roda em qualquer lugar!
+>
+> ---
+>
+> ### 🔄 **Fluxo Resumido**
+> ```
+> Código Java (.java)
+>    ⬇️ compilado com javac
+> Bytecode (.class)
+>    ⬇️ executado pela JVM
+> Programa rodando ✨
+> ```
