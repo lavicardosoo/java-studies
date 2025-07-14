@@ -15,7 +15,7 @@
       <img src="readme-media/2.gif" width="150">
     </td>
   </tr>
-</table> |
+</table> 
 
 ## ⏳ História do  Java
 
