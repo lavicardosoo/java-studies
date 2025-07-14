@@ -1,17 +1,17 @@
 # 📝  Java - Anotações e Exercícios
 
-<table>
-  <tr>
-    <td>
+## 💖 Referências 
 
-💖 **Referências**
+<table style="border:none;">
+  <tr style="border:none;">
+    <td style="border:none;">
 
 - [Curso em Vídeo](https://www.cursoemvideo.com)
 - [W3SCHOOLS](https://www.w3schools.com)
 - [DOC](https://docs.oracle.com/javase/tutorial/)
 
     </td>
-    <td>
+    <td style="border:none;">
       <img src="readme-media/2.gif" width="150">
     </td>
   </tr>
