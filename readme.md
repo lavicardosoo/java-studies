@@ -82,16 +82,16 @@ Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Goslin
 
 ## 🫀 Fundamentos do Java
 
-# 🗃️ Variáveis 
+### 🗃️ Variáveis 
 * Armazenam dados na memória 
 * [Diretório](variáveis)
 
-# ➗ Tipos de dados e Operadores
+### ➗ Tipos de dados e Operadores
 
-# 🔀 Estruturas de Controle
+### 🔀 Estruturas de Controle
 
-# 🔁 Estruturas de repetição
+### 🔁 Estruturas de repetição
 
-# 🎲 Estruturas de dados
+### 🎲 Estruturas de dados
 
-# ❌ Erros e Excessões
+### ❌ Erros e Excessões
