@@ -84,12 +84,14 @@ Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Goslin
 
 * 🗃️ Variáveis
   - Armazenam dados na memória
+    
     ```java
     String produto = "Lápis";
     float preco = 1.2f;
     int estoque = 200;
     byte cores = 20;
     ```
+    
   - [Exemplos](variaveis)
 
 * ➗ Tipos de dados e Operadores
