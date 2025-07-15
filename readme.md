@@ -88,7 +88,7 @@ Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Goslin
 
 ### ➗ Tipos de dados e Operadores
 
-### 🔀 Estruturas de Controle
+### 🔀 Estruturas condicionais
 
 ### 🔁 Estruturas de repetição
 
