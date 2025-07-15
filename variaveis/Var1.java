@@ -3,7 +3,7 @@ package variaveis;
 public class Var1 {
     public static void main(String args[]){
         String nome = "Aphonsinha";
-        int idade = 17;
+        byte idade = 17;
         float altura = 1.96f;
 
         System.out.println("\n=========================\n");
