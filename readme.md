@@ -83,8 +83,8 @@ Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Goslin
 ## 🫀 Fundamentos do Java
 
 * 🗃️ Variáveis
-  > Armazenam dados na memória 
-  > [Diretório](variaveis)
+  - Armazenam dados na memória 
+  - [Diretório](variaveis)
 
 * ➗ Tipos de dados e Operadores
 
