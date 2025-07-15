@@ -84,7 +84,7 @@ Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Goslin
 
 ### 🗃️ Variáveis 
 * Armazenam dados na memória 
-* [Diretório](variáveis)
+* [Diretório](variaveis)
 
 ### ➗ Tipos de dados e Operadores
 
