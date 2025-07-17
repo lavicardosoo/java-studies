@@ -100,7 +100,7 @@ Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Goslin
   - [Operadores](tiposdados/Operadores.java)
 
 * 🔀 Estruturas condicionais
-  - [Exemplo](estruturas_condicionais/Conditions.java)
+  - [Exemplo](estruturas_condicionais/Condition.java)
 
 * 🔁 Estruturas de repetição
 
