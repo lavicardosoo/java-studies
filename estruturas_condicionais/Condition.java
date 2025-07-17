@@ -46,7 +46,7 @@ public class Condition {
             System.out.printf(resposta,n1,"\n");
         }
         
-        //Roda se a primeira condição for falsa
+        //Roda se a condição anterior for falsa
         else if (pergunta == 2){
             System.out.println("pois então smt");
         }
