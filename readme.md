@@ -96,7 +96,7 @@ Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Goslin
 
 * ➗ Tipos de dados e Operadores
 
-  - [Tipos de Daods](tiposdados/DataType.java)
+  - [Tipos de Dados](tiposdados/DataTypes.java)
   - [Operadores](tiposdados/Operadores.java)
 
 * 🔀 Estruturas condicionais
