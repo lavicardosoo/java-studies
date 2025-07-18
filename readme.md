@@ -103,7 +103,9 @@ Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Goslin
   - [Exemplo](estruturas_condicionais/Condition.java)
 
 * 🔁 Estruturas de repetição
-
+  - [Loop While e Do-While](estruturas_loop/While.java)
+  - [Loop For](estruturas_loop/For.java)
+  
 * 🎲 Estruturas de dados
 
 * ❌ Erros e Excessões
