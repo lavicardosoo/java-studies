@@ -48,10 +48,10 @@ private void desenharTabuleiro(){
 
 			switch(this.grafico[i][c]){
 			case 'O':
-				simbolo = " 🍑";
+				simbolo = " 🐸";
 				break;
 			case 'X':
-				simbolo = " 🍆";
+				simbolo = " 🐱";
 				break;
 			case ' ':
 				simbolo = "  ";
@@ -114,7 +114,7 @@ private boolean tabuleiroLotade(){
 public void rodarJogo(){
 	while(true){
 		this.desenharTabuleiro();
-		this.posicaoFavorita = (this.gaymer == 'O') ? "passivo 🍑" : "ativo 🍆";
+		this.posicaoFavorita = (this.gaymer == 'O') ? "sapinho 🐸" : "gatinho 🐱";
 		System.out.println("Vez do jogador " + this.posicaoFavorita + "\n");
 		System.out.print("Digite a coordenada, veyr:");
 		this.resposta = input.nextLine().toUpperCase();
@@ -150,7 +150,7 @@ public void rodarJogo(){
 			System.out.println("Alguém ganhou!!!");
 			break;
 		}else if (this.tabuleiroLotade()){
-			System.out.println("Ops...Deu velha, nem ganharam nem perderam. Suas passivas.");
+			System.out.println("Ops...Deu velha, nem ganharam nem perderam. Seus burros.");
 			break;
 		}else{
 			this.gaymer = (this.gaymer == 'X') ? 'O':'X';
