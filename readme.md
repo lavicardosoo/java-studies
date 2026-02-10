@@ -107,5 +107,4 @@ Em 1990, a equipe **"Green Team"** da Sun Microsystems,liderada por James Goslin
   - [Loop For](estruturas_loop/For.java)
   
 * 🎲 Estruturas de dados
-
-* ❌ Erros e Excessões
+  - [Arrays](estruturas_dados/Arrays.java)
