@@ -166,8 +166,14 @@ public void rodarJogo(){
 		}
 
 		this.grafico[linha][coluna] = this.gaymer;
-
-		if(this.tabuleiroLotado()){
+		
+		if(this.verificarVitoria()){
+			this.desenharTabuleiro();
+			System.out.printf("\nO jogador %s ganhou!!\n", this.nomeFofinho);
+			break;
+		}
+			
+		else if(this.tabuleiroLotado()){
   			System.out.println(
 			"""
 
@@ -182,11 +188,8 @@ public void rodarJogo(){
 
 			""");
 			break;
-		}else if(this.verificarVitoria()){
-			this.desenharTabuleiro();
-			System.out.printf("\nO jogador %s ganhou!!\n", this.nomeFofinho);
-			break;
 		}
+			
 		else {
 			this.gaymer = (this.gaymer == 'X') ? 'O' : 'X';
 		}
